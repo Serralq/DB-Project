@@ -1,7 +1,0 @@
-devenv:container:copy
-devenv:enterShell
-devenv:enterTest
-devenv:files
-devenv:files:cleanup
-devenv:mysql:configure
-devenv:processes:mysql
