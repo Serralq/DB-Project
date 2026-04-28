@@ -18,3 +18,4 @@ devenv.local.yaml
 
 models/*
 __pycache__/*
+tpcds_data/*
